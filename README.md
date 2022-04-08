@@ -2,7 +2,7 @@
 
 I am physically located in Canada, so I could help anyone to host your code, so you can keep anonymous. 
 
-If you need my help, please create a issue in this repo, with the following information: 
+If you need my help, please create a issue in [this repo](https://github.com/jackbann/jackbann), with the following information: 
 
 1. Your **temporary** email address. 
 2. Your PGP public key ID. 
